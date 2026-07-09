@@ -51,17 +51,6 @@ Two archives capture the full pipeline from platform response to analysis-ready 
   which the standardized citations were matched against the 83-study gold-standard
   corpus. These matched files are the direct input to `analysis_notebook.ipynb`.
 
-## Citation
-
-If you use this code or data, please cite:
-
-> Farrag AN, Soliman A, Azubuike C, Zandbiglari K, Yadavilli S, Adkins LE,
-> Mehrabi F, Cavallari L, Goodin A, Rouhizadeh M. Blind Spots in AI-Assisted
-> Healthcare Evidence Search: Multiplatform Evaluation of Clinical Retrieval
-> Gaps and Risk-of-Bias. *[Journal]*. [Year]. [DOI]
-
-A machine-readable `CITATION.cff` can be added so GitHub renders a
-"Cite this repository" button; update the journal, year, and DOI once available.
 
 ## License
 

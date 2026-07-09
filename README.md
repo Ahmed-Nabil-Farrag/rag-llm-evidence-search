@@ -52,6 +52,3 @@ Two archives capture the full pipeline from platform response to analysis-ready 
   corpus. These matched files are the direct input to `analysis_notebook.ipynb`.
 
 
-## License
-
-Released under the [MIT License](LICENSE) (or specify your preferred license).

@@ -23,7 +23,7 @@ Amie Goodin¹˒⁷, Masoud Rouhizadeh¹˒⁷˒⁸*
 7. Center for Drug Evaluation and Safety (CoDES), University of Florida, Gainesville, FL, USA
 8. Division of Health Sciences Informatics, Johns Hopkins University, Baltimore, MD, USA
 
-\* Corresponding authors: Ahmed N. Farrag (ahmed.farrag@ufl.edu, ORCID 0000-0001-9241-0127); Masoud Rouhizadeh (ORCID 0000-0002-9006-6112)
+\* Corresponding authors: Masoud Rouhizadeh (mrou@cop.ufl.edu, ORCID 0000-0002-9006-6112); Ahmed N. Farrag (ahmed.farrag@ufl.edu, ORCID 0000-0001-9241-0127)
 
 ## Contents
 

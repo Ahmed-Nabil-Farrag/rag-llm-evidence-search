@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the article below."
+title: "Blind Spots in AI-Assisted Healthcare Evidence Search: analysis code and data"
+type: software
+license: MIT
+repository-code: "https://github.com/Ahmed-Nabil-Farrag/rag-llm-evidence-search"
+authors:
+  - family-names: Farrag
+    given-names: "Ahmed N."
+    orcid: "https://orcid.org/0000-0001-9241-0127"
+    email: ahmed.farrag@ufl.edu
+    affiliation: "Department of Pharmaceutical Outcomes and Policy, College of Pharmacy, University of Florida, Gainesville, FL, USA"
+  - family-names: Soliman
+    given-names: Ahmed
+    affiliation: "University of Florida, Gainesville, FL, USA"
+  - family-names: Azubuike
+    given-names: Chidimma
+    affiliation: "University of Florida, Gainesville, FL, USA"
+  - family-names: Zandbiglari
+    given-names: Kimia
+    affiliation: "University of Florida, Gainesville, FL, USA"
+  - family-names: Yadavilli
+    given-names: Surya
+    affiliation: "University of Florida, Gainesville, FL, USA"
+  - family-names: Adkins
+    given-names: "Lauren E."
+    affiliation: "Health Science Center Libraries, University of Florida, Gainesville, FL, USA"
+  - family-names: Mehrabi
+    given-names: Fatemeh
+    affiliation: "University of Florida, Gainesville, FL, USA"
+  - family-names: Cavallari
+    given-names: Larisa
+    affiliation: "University of Florida, Gainesville, FL, USA"
+  - family-names: Goodin
+    given-names: Amie
+    affiliation: "University of Florida, Gainesville, FL, USA"
+  - family-names: Rouhizadeh
+    given-names: Masoud
+    orcid: "https://orcid.org/0000-0002-9006-6112"
+    email: mrou@cop.ufl.edu
+    affiliation: "University of Florida, Gainesville, FL, USA; Johns Hopkins University, Baltimore, MD, USA"
+preferred-citation:
+  type: article
+  title: "Blind Spots in AI-Assisted Healthcare Evidence Search: Multiplatform Evaluation of Clinical Retrieval Gaps and Risk-of-Bias"
+  journal: "npj Digital Medicine"
+  year: 2026
+  doi: "10.1038/s41746-026-03277-y"
+  authors:
+    - family-names: Farrag
+      given-names: "Ahmed N."
+      orcid: "https://orcid.org/0000-0001-9241-0127"
+    - family-names: Soliman
+      given-names: Ahmed
+    - family-names: Azubuike
+      given-names: Chidimma
+    - family-names: Zandbiglari
+      given-names: Kimia
+    - family-names: Yadavilli
+      given-names: Surya
+    - family-names: Adkins
+      given-names: "Lauren E."
+    - family-names: Mehrabi
+      given-names: Fatemeh
+    - family-names: Cavallari
+      given-names: Larisa
+    - family-names: Goodin
+      given-names: Amie
+    - family-names: Rouhizadeh
+      given-names: Masoud
+      orcid: "https://orcid.org/0000-0002-9006-6112"

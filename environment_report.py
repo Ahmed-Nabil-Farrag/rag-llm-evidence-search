@@ -10,7 +10,7 @@ from importlib import metadata
 # Packages actually imported by the analysis notebook
 PACKAGES = [
     "pandas", "numpy", "scipy", "statsmodels",
-    "scikit-learn", "matplotlib", "seaborn", "plotly",
+    "scikit-learn", "matplotlib", "seaborn", "plotly", "kaleido",
 ]
 # import name -> distribution name (only where they differ)
 DIST = {"scikit-learn": "scikit-learn"}
